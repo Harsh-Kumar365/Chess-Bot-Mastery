@@ -39,11 +39,17 @@ Project Development Phases:
 
 Planning and Design:- 
 1.Define project requirements, user personas, chatbot capabilities, and design the system architecture.
+
 2.Data Collection and Preprocessing: Gather chess-related data, including rules, strategies, player information, and historical games. Preprocess and organize the data for storage and retrieval.
+
 3.NLU Model Development: Train an NLU model to understand user intents and extract relevant entities from messages.
+
 4.Chatbot Backend Development: Implement the chatbot backend using Python and integrate with NLU models, chess engines, and data storage.
+
 5.Frontend Development: Develop a user-friendly interface for interacting with the chatbot, including web UI components and messaging platform integrations.
+
 6.Testing and Iteration: Conduct thorough testing of the chatbot functionality, performance, and user experience. Iterate on the design and implementation based on feedback.
+
 7 .Deployment and Maintenance: Deploy the chatbot to production servers or platforms. Monitor performance, handle updates, and maintain the chatbot to ensure continuous operation.
 
 
